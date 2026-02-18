@@ -3,6 +3,7 @@
 # dependencies
 my-app/node_modules
 my-app/.next/
+my-app/public/
 *.next/
 /.pnp
 .pnp.*
@@ -17,8 +18,8 @@ my-app/.next/
 
 # next.js
 ./my-app/.next/
-/out/
 
+/out/
 # production
 /build
 
