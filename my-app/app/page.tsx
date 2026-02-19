@@ -28,7 +28,7 @@ export default function Home() {
           <Categorys/>
       </div>
       <div>
-        <LatestNews/>
+        <LatestNews header_name="Latest News" value="home"/>
       </div>
 
       

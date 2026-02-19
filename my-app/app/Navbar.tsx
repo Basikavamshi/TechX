@@ -59,7 +59,7 @@ function Navbar() {
                                 <HiOutlineExternalLink className='inline size-6 ml-1'/>
                             </div>
                         </Link>
-                        <Link href={'/LatestNews'} className='hover:text-blue-500 w-full'>
+                        <Link href={'/Latest_News'} className='hover:text-blue-500 w-full'>
                             <div className='flex flex-row items-center gap-4 justify-between w-11/12'>
                                 <span className='text-2xl font-medium '>Latest News</span>
                                 <HiOutlineExternalLink className='inline size-6 ml-1'/>
@@ -93,7 +93,7 @@ function Navbar() {
                   <Link href={'/EV'}>
                     <span className='text-[0.9em]  lg:text-1 hover:text-blue-500'>EV</span>
                   </Link>
-                  <Link href={'/LatestNews'}>
+                  <Link href={'/Latest_News'}>
                     <span className='text-[0.9em]  lg:text-1 hover:text-blue-500 whitespace-nowrap'>Latest News</span>
                   </Link>
                 </div>

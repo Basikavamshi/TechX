@@ -3,7 +3,7 @@ import Image from 'next/image'
 import img1l from '../../public/img1l.jpg';
 import img2l from '../../public/img2l.jpg';
 import img3l from '../../public/img3l.jpg';
-function LatestNews() {
+function LatestNews({value,header_name}:{value:string,header_name?:string}) {
   return (
     <div className='flex flex-col w-dvw h-fit  gap-4 p-3 md2:p-4 md:p-8 box-border lg:max-w-5xl '>
         {/* nav header*/}
@@ -12,9 +12,9 @@ function LatestNews() {
                 <svg width="3" height="20" viewBox="0 0 3 33" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <line x1="1.5" y1="31.5" x2="1.5" y2="1.5" stroke="#FF1803" strokeWidth="3" strokeLinecap="square"/>
                 </svg>
-                <span className='text-[0.9em] sm2:text-[1em] md2:text-[1.3em]'>Latest News</span>
+                <span className='text-[0.9em] sm2:text-[1em] md2:text-[1.3em]'>{header_name}</span>
             </div>
-            <div className='flex justify-center items-center'>
+            <div className={`${value=="Latest_News" ?"hidden":"flex"}  justify-center items-center`}>
                 <button className='text-[0.9em]'>View All</button>
             </div>
         </div>
@@ -67,7 +67,7 @@ function LatestNews() {
 
             </div>
         </div>
-        <div className=' flex justify-center items-center w-full'>
+        <div className={`${value=="Latest_News" ?"hidden":"flex"} justify-center items-center w-full`}>
            <div className='flex flex-row items-center gap-4'>
                 <svg width="40" height="20" viewBox="0 0 44 30" fill="none" xmlns="http://www.w3.org/2000/svg" >
                     <path d="M0.585785 13.3138C-0.195263 14.0949 -0.195263 15.3612 0.585785 16.1422L13.3137 28.8702C14.0948 29.6512 15.3611 29.6512 16.1421 28.8702C16.9232 28.0891 16.9232 26.8228 16.1421 26.0417L4.82843 14.728L16.1421 3.41432C16.9232 2.63327 16.9232 1.36694 16.1421 0.585892C15.3611 -0.195157 14.0948 -0.195157 13.3137 0.585892L0.585785 13.3138ZM44 14.728V12.728L2 12.728V14.728V16.728L44 16.728V14.728Z" fill="black"/>
