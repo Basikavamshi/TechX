@@ -100,7 +100,11 @@ function Navbar() {
                 
             </div>
             <div className='flex flex-row justify-end content-center align-middle items-center gap-2 lg:gap-4 mr-2 lg:mr-4'>
-               <div><BiBookmarkHeart className="size-6.5 lg:size-7" /></div>
+               <div>
+                  <Link href="/Wishlist">
+                    <BiBookmarkHeart className="size-6.5 lg:size-7 hover:text-blue-500" />
+                  </Link>
+               </div>
                <div>
                   <Link href="/login">
                     <button className="bg-blue-500 text-white w-14 h-6.5 text-[0.9em] text-center rounded-md">

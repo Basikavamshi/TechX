@@ -5,7 +5,7 @@ import Title from './Components/Title'
 import YTvidoes from '../Shared_Components/YTvidoes'
 function page() {
   return (
-<div className='flex justify-center bg-linear-to-b from-blue-50 to-gray-50 w-full h-full p-4 min-w-[200px] overflow-scroll'>
+<div className='flex justify-center bg-linear-to-b from-slate-50 via-gray-50 to-gray-0 w-full h-full p-4 min-w-[200px] overflow-scroll'>
     <div className='flex flex-col max-w-4xl w-dvw h-full  gap-4 '>
         {/* title */}
         <div className='w-full h-full '>
