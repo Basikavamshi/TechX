@@ -1,0 +1,199 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "title": "Realme C83 5G",
+            "price": "\u20b913,499",
+            "image": "https://cdn.beebom.com/mobile/realme-c83-front-back.png",
+            "specs": [
+                "MediaTek Dimensity 6300",
+                "6.8\" | HD+ IPS LCD | 144Hz",
+                "13MP (Wide-angle) | 5MP (Front)",
+                "7000mAh | 15Watt | Charger in the box",
+                "4GB (LPDDR4X) | 64GB (eMMC 5.1)"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "iQOO 15R",
+            "price": "\u20b944,999",
+            "image": "https://cdn.beebom.com/mobile/iqoo-15r-front-back-1.png",
+            "specs": [
+                "Qualcomm Snapdragon 8 Gen 5",
+                "6.59\" | 1.5K AMOLED | 144Hz",
+                "50MP (Wide-angle) | 8MP (Ultra-wide) | 32MP (Front)",
+                "7600mAh | 100Watt | Charger in the box",
+                "8GB (LPDDR5X Ultra) | 256GB (UFS 4.1)"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Realme P4 Lite 4G",
+            "price": "\u20b99,999",
+            "image": "https://cdn.beebom.com/mobile/realme-p4-lite-4g-front-back-1.png",
+            "specs": [
+                "Unisoc T7250",
+                "6.74\" | HD+ LCD | 90Hz",
+                "13MP (Wide-angle) | 5MP (Front)",
+                "6300mAh | 15Watt | Charger in the box",
+                "4GB (LPDDR4X) | 64GB (eMMC 5.1)"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Vivo V70",
+            "price": "\u20b945,999",
+            "image": "https://cdn.beebom.com/mobile/vivo-v70-front-back-2.png",
+            "specs": [
+                "Qualcomm Snapdragon 7 Gen 4",
+                "6.59\" | 1.5K AMOLED | 120Hz",
+                "50MP (Wide-angle) | 8MP (Ultra-wide) | 50MP (Telephoto) | 50MP (Front)",
+                "6500mAh | 90Watt | Charger in the box",
+                "8GB (LPDDR5X) | 256GB (UFS 4.1)"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Vivo V70 Elite",
+            "price": "\u20b951,999",
+            "image": "https://cdn.beebom.com/mobile/vivo-v70-elite-back-front-1.png",
+            "specs": [
+                "Qualcomm Snapdragon 8s Gen 3",
+                "6.59\" | 1.5K AMOLED | 120Hz",
+                "50MP (Wide-angle) | 50MP (Telephoto) | 8MP (Ultra-wide) | 50MP (Front)",
+                "6500mAh | 90Watt | Charger in the box",
+                "8GB (LPDDR5X) | 256GB (UFS 4.1)"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Infinix Note Edge 5G",
+            "price": "\u20b921,999",
+            "image": "https://cdn.beebom.com/mobile/infinix-note-edge-5g-front-back-1.png",
+            "specs": [
+                "MediaTek Dimensity 7100",
+                "6.78\" | 1.5K AMOLED | 120Hz",
+                "50MP (Wide-angle) | 13MP (Front)",
+                "6500mAh | 45Watt | Charger in the box",
+                "6GB (LPDDR5X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Google Pixel 10a",
+            "price": "\u20b949,999",
+            "image": "https://cdn.beebom.com/mobile/google-pixel-10a-front-back-1.png",
+            "specs": [
+                "Google Tensor G4",
+                "6.3\" | FHD+ p-OLED | 120Hz",
+                "48MP (Wide-angle) | 13MP (Ultra-wide) | 13MP (Front)",
+                "5100mAh | 45Watt",
+                "8GB (LPDDR5X) | 256GB (UFS 3.1)"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Tecno Pova Curve 2",
+            "price": "\u20b927,999",
+            "image": "https://cdn.beebom.com/mobile/tecno-pova-curve-2-back-front.png",
+            "specs": [
+                "MediaTek Dimensity 7100",
+                "6.78\" | 1.5K AMOLED | 144Hz",
+                "50MP (Wide-angle) | 2MP (Macro) | 13MP (Front)",
+                "8000mAh | 45Watt | Charger in the box",
+                "8GB (LPDDR5X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Oppo K14x 5G",
+            "price": "\u20b914,999",
+            "image": "https://cdn.beebom.com/mobile/oppo-k14x-5g-front-back.png",
+            "specs": [
+                "MediaTek Dimensity 6300",
+                "6.75\" | HD+ LCD | 120Hz",
+                "50MP (Wide-angle) | 2MP (Monochrome) | 5MP (Front)",
+                "6500mAh | 45Watt | Charger in the box",
+                "4GB (LPDDR4X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Samsung Galaxy F70e 5G",
+            "price": "\u20b912,999",
+            "image": "https://cdn.beebom.com/mobile/samsung-galaxy-f70e-5g-front-back.png",
+            "specs": [
+                "MediaTek Dimensity 6300",
+                "6.7\" | HD+ LCD | 120Hz",
+                "50MP (Wide-angle) | 2MP (Depth) | 8MP (Front)",
+                "6000mAh | 25Watt",
+                "4GB (LPDDR4X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Samsung Galaxy A07 5G",
+            "price": "\u20b915,999",
+            "image": "https://cdn.beebom.com/mobile/samsung-galaxy-a07-5g-back-front.png",
+            "specs": [
+                "MediaTek Dimensity 6300",
+                "6.7\" | HD+ PLS LCD | 120Hz",
+                "50MP (Wide-angle) | 2MP (Macro) | 8MP (Front)",
+                "6000mAh | 25Watt",
+                "4GB (LPDDR4X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Realme P4 Power",
+            "price": "\u20b927,999",
+            "image": "https://cdn.beebom.com/mobile/realme-p4-power-front-back.png",
+            "specs": [
+                "MediaTek Dimensity 7400 Ultra",
+                "6.8\" | 1.5K AMOLED | 144Hz",
+                "50MP (Wide-angle) | 8MP (Ultra-wide) | 2MP | 16MP (Front)",
+                "10001mAh | 80Watt | Charger in the box",
+                "8GB (LPDDR4X) | 128GB (UFS 3.1)"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Redmi Note 15 Pro",
+            "price": "\u20b928,865",
+            "image": "https://cdn.beebom.com/mobile/redmi-note-15-pro-back-front.png",
+            "specs": [
+                "MediaTek Dimensity 7400 Ultra",
+                "6.83\" | 1.5K AMOLED | 120Hz",
+                "200MP (Wide-angle) | 8MP (Ultra-wide) | 20MP (Front)",
+                "6580mAh | 45Watt | Charger in the box",
+                "8GB (LPDDR4X) | 128GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Redmi Note 15 Pro Plus",
+            "price": "\u20b937,999",
+            "image": "https://cdn.beebom.com/mobile/redmi-note-15-pro-plus-back-front-1.png",
+            "specs": [
+                "Qualcomm Snapdragon 7s Gen 4",
+                "6.83\" | 1.5K AMOLED | 120Hz",
+                "200MP (Wide-angle) | 8MP (Ultra-wide) | 32MP (Front)",
+                "6500mAh | 100Watt | Charger in the box",
+                "8GB (LPDDR4X) | 256GB (UFS 2.2)"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Vivo X200T",
+            "price": "\u20b959,999",
+            "image": "https://cdn.beebom.com/mobile/vivo-x200t-light-purple-front-and-back.png",
+            "specs": [
+                "MediaTek Dimensity 9400 Plus",
+                "6.67\" | 1.5K AMOLED | 120Hz",
+                "50MP (Wide-angle) | 50MP (Telephoto) | 50MP (Ultra-wide) | 32MP (Front)",
+                "6200mAh | 90Watt | Charger in the box",
+                "12GB (LPDDR5X Ultra) | 256GB (UFS 4.1)"
+            ]
+        }
+    ]
+}
